@@ -1,5 +1,3 @@
-# README.md
-
 # Stalo
 
 Stalo is a robust, state-management library built with a focus on simplicity, efficiency, and extensibility for modern React applications. It leverages concepts like Immer.js to enable immutable updates and provides middleware mechanisms for state manipulation and debugging.
